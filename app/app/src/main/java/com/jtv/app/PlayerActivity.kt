@@ -31,6 +31,7 @@ class PlayerActivity : AppCompatActivity() {
         setContentView(R.layout.activity_player)
         playerView = findViewById(R.id.playerView)
         titleView = findViewById(R.id.channelTitle)
+        findViewById<TextView>(R.id.btnBack).setOnClickListener { finish() }
 
         channels = intent.getParcelableArrayListExtra(EXTRA_LIST) ?: arrayListOf()
         index = intent.getIntExtra(EXTRA_INDEX, 0).coerceIn(0, maxOf(0, channels.size - 1))
@@ -111,6 +112,9 @@ class PlayerActivity : AppCompatActivity() {
             }
             KeyEvent.KEYCODE_DPAD_DOWN, KeyEvent.KEYCODE_CHANNEL_DOWN -> {
                 play((index + 1) % channels.size); return true
+            }
+            KeyEvent.KEYCODE_BACK, KeyEvent.KEYCODE_ESCAPE -> {
+                finish(); return true
             }
         }
         return super.onKeyDown(keyCode, event)
