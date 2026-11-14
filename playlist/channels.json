@@ -63,6 +63,15 @@
   "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
  },
  {
+  "name": "VTV6",
+  "group": "📺| VTV",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
+  "tvgId": "vtv6hd",
+  "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36",
+  "referer": null
+ },
+ {
   "name": "VTV7",
   "group": "📺| VTV",
   "logo": "https://i.imgur.com/ZwoP823.png",

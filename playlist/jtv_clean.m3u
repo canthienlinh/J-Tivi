@@ -27,6 +27,9 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://fptplay.vn/
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="📺| VTV",VTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="📺| VTV",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://fptplay.vn/
