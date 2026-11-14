@@ -17,8 +17,8 @@ import java.util.concurrent.TimeUnit
  */
 object ChannelRepo {
 
-    // TODO: replace with your own raw GitHub URL that serves channels.json
-    private const val REMOTE_URL = ""
+    private const val REMOTE_URL =
+        "https://raw.githubusercontent.com/canthienlinh/J-Tivi/main/playlist/channels.json"
 
     private val http = OkHttpClient.Builder()
         .connectTimeout(8, TimeUnit.SECONDS)
