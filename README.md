@@ -1,37 +1,20 @@
 # J-TV
 
-App Android IPTV, dựng lại từ phân tích **DL Tivi**. Media3/ExoPlayer, đọc danh sách kênh M3U.
+App Android IPTV. Media3/ExoPlayer, đọc danh sách kênh M3U/JSON.
 
 ## Cấu trúc
 
 ```
-Base TV/            APK gốc để phân tích (DL Tivi.apk, vtvgotv.apk)
 playlist/           Playlist đã lọc
-  jtv_clean.m3u     107 kênh còn sống (M3U chuẩn)
+  jtv_clean.m3u     Kênh còn sống (M3U chuẩn)
   channels.json     Cùng dữ liệu, dạng JSON cho app
-  parsed.json       316 kênh gốc (trước khi lọc sống/chết)
 app/                Project Android (Gradle + Kotlin + Media3)
 ```
 
-## Nguồn gốc DL Tivi (phân tích)
+## Nguồn kênh
 
-DL Tivi KHÔNG nhúng kênh trong app. Nó tải M3U từ repo bên thứ 3 lúc chạy:
-
-```
-https://raw.githubusercontent.com/DinhLap96/ListTivi/main/ListTiVi/dltivi.dl       (12 kênh)
-https://raw.githubusercontent.com/DinhLap96/ListTivi/main/ListTiVi/dltivi.ndl      (261 kênh)
-https://raw.githubusercontent.com/DinhLap96/ListTivi/main/ListTiVi/dltivi_v2.ndl   (96 kênh)
-```
-
-`.dl`/`.ndl` = M3U đổi đuôi, KHÔNG mã hoá. App lỗi vì phụ thuộc repo này + nhiều CDN relay đã chết
-(`code.vthanhtivi.pw`, IP thô, `*.ngrok.io`...).
-
-VTVgo TV dùng API token/DRM (`api.vtvdigital.org`, `api.msky.vn`) → không tái dùng trực tiếp, đã bỏ qua.
-
-## Lọc nguồn
-
-316 kênh gốc → test HTTP sống/chết → **107 kênh LIVE**. Bỏ: relay chết, ngrok, quảng cáo (ottera/publica).
-Nguồn giữ lại chủ yếu: SCTV, VTVcab, đài địa phương, Radio (Zeno/Zing).
+Danh sách lọc qua test HTTP sống/chết strict (body phải bắt đầu `#EXTM3U` hoặc chứa
+`#EXT-X`/`<MPD`). Nguồn chính: SCTV, VTVcab, đài địa phương, Radio (Zeno/Zing).
 
 Lưu ý: nhiều kênh cần header `User-Agent`/`Referer`. URL kiểu SCTV nhúng header inline
 (`...index.m3u8?|Referer=...`) — app tự tách trong `Channel.parseJson`.
@@ -49,16 +32,17 @@ export JAVA_HOME="/c/Program Files/Eclipse Adoptium/jdk-17"
 
 ## Kiến trúc app
 
-- `ChannelRepo` — tải kênh: thử `REMOTE_URL` trước (để update không cần build lại), fallback về `assets/channels.json`.
-  **TODO:** đặt `REMOTE_URL` trỏ repo GitHub của BẠN, đừng phụ thuộc bên thứ 3 (chính là lỗi của DL Tivi).
+- `ChannelRepo` — tải kênh: thử `REMOTE_URL` (raw GitHub) trước để update không cần build lại,
+  fallback về `assets/channels.json` khi mất mạng.
 - `Channel` — model + parser M3U/JSON + tách inline pipe-header.
-- `PlayerActivity` — ExoPlayer, gắn UA/Referer/Origin vào `DefaultHttpDataSource`; HLS/DASH tự chọn; D-pad up/down đổi kênh (hỗ trợ Android TV).
+- `PlayerActivity` — ExoPlayer, gắn UA/Referer vào `DefaultHttpDataSource`; HLS/DASH tự chọn;
+  nút ✕ Thoát + phím BACK/ESC quay lại danh sách; D-pad up/down đổi kênh (hỗ trợ Android TV).
 - `MainActivity` — lưới kênh + lọc theo nhóm (Spinner).
 
 ## Cập nhật danh sách kênh (không cần build lại)
 
 1. Sửa `playlist/channels.json`.
 2. Push lên GitHub repo của bạn.
-3. Đặt raw URL vào `ChannelRepo.REMOTE_URL`.
+3. Raw URL đã trỏ sẵn trong `ChannelRepo.REMOTE_URL`.
 
-Chạy lại test sống/chết định kỳ bằng script trong lịch sử (parse → urllib HEAD/GET + header).
+Chạy lại test sống/chết định kỳ (parse → urllib GET + header, kiểm tra `#EXTM3U`).
