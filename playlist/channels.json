@@ -1,5 +1,95 @@
 [
  {
+  "name": "VTV1",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/vZYlGIW.png",
+  "tvgId": "vtv1hd",
+  "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV2",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/qWWpYRR.png",
+  "tvgId": "vtv2hd",
+  "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV3",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/4lJG1fu.png",
+  "tvgId": "vtv3hd",
+  "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV4",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/WsLLmR2.png",
+  "tvgId": "vtv4hd",
+  "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV5",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/Vnnna1C.png",
+  "tvgId": "vtv5hd",
+  "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV5 Tây Nam Bộ",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/xiuHjEQ.png",
+  "tvgId": "vtv5tnb",
+  "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV5 Tây Nguyên",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/Hlcnqqt.png",
+  "tvgId": "vtv5tn",
+  "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV7",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/ZwoP823.png",
+  "tvgId": "vtv7hd",
+  "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV8",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/rf9adGJ.png",
+  "tvgId": "vtv8hd",
+  "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8",
+  "referer": "https://fptplay.vn/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
+  "name": "VTV9",
+  "group": "📺| VTV",
+  "logo": "https://i.imgur.com/QiY55sy.png",
+  "tvgId": "vtv9hd",
+  "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8",
+  "referer": null,
+  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+ },
+ {
   "name": "SCTV3",
   "group": "🇸| SCTV",
   "logo": "https://i.ibb.co/7QPYf6D/SCTV3-cc.webp",
