@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JTV" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">#0E0E12</item>
+    </style>
+    <style name="Theme.JTV.Player" parent="Theme.JTV">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

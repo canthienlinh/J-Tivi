@@ -1,0 +1,21 @@
+# Android / Gradle
+app/.gradle/
+app/build/
+app/app/build/
+app/local.properties
+app/.idea/
+app/*.iml
+app/app/*.iml
+*.apk
+.gradle/
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# analysis temp (keep playlist + source APKs excluded for size)
+
+# source APKs (large, copyrighted) - keep local
+Base TV/
+shots/
