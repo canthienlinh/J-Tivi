@@ -1,740 +1,749 @@
 [
- {
-  "name": "VTV1",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/vZYlGIW.png",
-  "tvgId": "vtv1hd",
-  "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV2",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/qWWpYRR.png",
-  "tvgId": "vtv2hd",
-  "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV3",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/4lJG1fu.png",
-  "tvgId": "vtv3hd",
-  "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV4",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/WsLLmR2.png",
-  "tvgId": "vtv4hd",
-  "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV5",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/Vnnna1C.png",
-  "tvgId": "vtv5hd",
-  "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV5 Tây Nam Bộ",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/xiuHjEQ.png",
-  "tvgId": "vtv5tnb",
-  "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV5 Tây Nguyên",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/Hlcnqqt.png",
-  "tvgId": "vtv5tn",
-  "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV6",
-  "group": "📺| VTV",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
-  "tvgId": "vtv6hd",
-  "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36",
-  "referer": null
- },
- {
-  "name": "VTV7",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/ZwoP823.png",
-  "tvgId": "vtv7hd",
-  "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV8",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/rf9adGJ.png",
-  "tvgId": "vtv8hd",
-  "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8",
-  "referer": "https://fptplay.vn/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "VTV9",
-  "group": "📺| VTV",
-  "logo": "https://i.imgur.com/QiY55sy.png",
-  "tvgId": "vtv9hd",
-  "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8",
-  "referer": null,
-  "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
- },
- {
-  "name": "SCTV3",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/7QPYf6D/SCTV3-cc.webp",
-  "tvgId": "sctv3hd",
-  "url": "https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "SCTV5",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/mbDHVPr/SCTV5-cc.webp",
-  "tvgId": "sctv5hd",
-  "url": "https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "SCTV6",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/g4rNcCM/SCTV6-cc.webp",
-  "tvgId": "sctv6hd",
-  "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "SCTV7",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/VJJ953X/SCTV7-cc.webp",
-  "tvgId": "sctv7hd",
-  "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "SCTV8",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/VxHFKfh/SCTV8-cc.webp",
-  "tvgId": "sctv8hd",
-  "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "SCTV10",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/9tKmzD5/SCTV10-cc.webp",
-  "tvgId": "sctv10hd",
-  "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "SCTV12",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/JR8LKdR/SCTV12-cc.webp",
-  "tvgId": "sctv12hd",
-  "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "SCTV20",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/mXBX0sN/SCTV20-cc.webp",
-  "tvgId": "sctv20hd",
-  "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "SCTV21",
-  "group": "🇸| SCTV",
-  "logo": "https://i.ibb.co/q7XSnwX/SCTV21-cc.webp",
-  "tvgId": "ssctv21hd",
-  "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8",
-  "userAgent": null,
-  "referer": "http://sctvonline.vn/"
- },
- {
-  "name": "Red Bull",
-  "group": "",
-  "logo": "https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",
-  "tvgId": "",
-  "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "30A Music",
-  "group": "Music",
-  "logo": "https://i.imgur.com/gNWg9tl.png",
-  "tvgId": "30AMusic.us",
-  "url": "https://30a-tv.com/music.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Óčko (540p)",
-  "group": "Music",
-  "logo": "https://i.imgur.com/jKPRYdM.png",
-  "tvgId": "Ocko.cz",
-  "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Play TV (480p)",
-  "group": "Music",
-  "logo": "http://i.imgur.com/100uuWA.png",
-  "tvgId": "PlayTV.gr",
-  "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "MBC 3 (1080p)",
-  "group": "Kids",
-  "logo": "https://i.imgur.com/FVNVC73.png",
-  "tvgId": "MBC3.ae",
-  "url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Camp Spoopy (486p)",
-  "group": "Kids",
-  "logo": "https://i.imgur.com/t3Jsks7.png",
-  "tvgId": "CampSpoopy.us",
-  "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "EBS KIDS (360p)",
-  "group": "Kids",
-  "logo": "https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png",
-  "tvgId": "EBSKIDS.kr",
-  "url": "http://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Spacetoon (1080p)",
-  "group": "Kids",
-  "logo": "https://i.imgur.com/RzPOwqI.png",
-  "tvgId": "Spacetoon.sy",
-  "url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Toon Goggles (1080p)",
-  "group": "Kids",
-  "logo": "https://i.imgur.com/oyIMxzM.png",
-  "tvgId": "ToonGoggles.us",
-  "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zoo Moo (Australia) (1080p)",
-  "group": "Kids",
-  "logo": "https://i.imgur.com/1wYnA2i.jpg",
-  "tvgId": "ZooMooAustralia.nz",
-  "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "THTPCT HD | TH Cần Thơ",
-  "group": "🇻🇳| Địa phương",
-  "logo": "https://cdn.hqth.me/logo/thumbs/126.png",
-  "tvgId": "cantho",
-  "url": "https://live.canthotv.vn/live/tv/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "QTV3 HD | TH Quảng Ninh",
-  "group": "🇻🇳| Địa phương",
-  "logo": "https://cdn.hqth.me/logo/thumbs/169.png",
-  "tvgId": "quangninh3",
-  "url": "http://103.90.220.236/qtvlive/tv3live.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Xone FM",
-  "group": "📻| Radio",
-  "logo": "https://cdn.hqth.me/logo/thumbs/251.png",
-  "tvgId": "",
-  "url": "https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing MP3 - On Air",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg",
-  "tvgId": "",
-  "url": "https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing MP3 - Chạm",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg",
-  "tvgId": "",
-  "url": "https://multi-playlist-zmp3.zadn.vn/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing MP3 - Vpop",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zadn.vn/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg",
-  "tvgId": "",
-  "url": "https://multi-playlist-zmp3.zadn.vn/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing MP3 - Acoustic",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zadn.vn/avatars/0/9/9/3/0993b3110c60ba6518fceeba9913d20d.jpg",
-  "tvgId": "",
-  "url": "https://multi-playlist-zmp3.zadn.vn/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "An Giang 1",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230615/52a9c209-cb9e-455a-8e1d-b25a9ac34bb2.jpg",
-  "tvgId": "",
-  "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8",
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",
-  "referer": null
- },
- {
-  "name": "An Giang 2",
-  "group": "Địa phương",
-  "logo": "https://images.fptplay53.net/media/channels/OTT/2025/07/29/icon_channel_an-giang_175372455025.jpg",
-  "tvgId": "",
-  "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8",
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",
-  "referer": null
- },
- {
-  "name": "An Giang 3",
-  "group": "Địa phương",
-  "logo": "https://images.fptplay53.net/media/channels/OTT/2025/11/15/icon_channel_an-giang-3_176314756942.jpg",
-  "tvgId": "",
-  "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",
-  "referer": null
- },
- {
-  "name": "Bắc Ninh",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250908/2025090816/RDQv8vVSvN-BTV-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Cần Thơ 1",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260205/2026020509/Gt7QRQqd2b-CANTHO1-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://live.canthotv.vn/live/tv/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Cần Thơ 2",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260204/2026020411/sNbsLQqbxQ-CANTHO2-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Cà Mau",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230610/50f75842-6415-4eb4-be1d-4e9f14bb22b0.jpg",
-  "tvgId": "",
-  "url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Cao Bằng",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/NnWwvFn0Kw-02-THUMB-CAOBANG.webp",
-  "tvgId": "",
-  "url": "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Đắk Lắk",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230609/960c627e-dd6f-45d9-a1dd-37f6190c997b.jpg",
-  "tvgId": "",
-  "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Điện Biên",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230610/8600437a-6698-474b-b11f-4397ce3a4965.jpg",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Đà Nẵng 1",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/RTF9mH0WuG-DNRT1-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://liveh12.vtvprime.vn/hls/DANANGTV/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Đà Nẵng 2",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/PmFxeTP8wZ-DNRT2-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://liveh34.vtvprime.vn/hls/DANANG2/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Đồng Nai 1",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250805/2025080516/CNUBvVy56R-DONGNAI1-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://stream.thingnet.vn/live/smil:DNTV1.smil/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Đồng Tháp 1",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230609/0afb380f-c9fd-4e2f-b4a9-e47b73c9e76b.jpg",
-  "tvgId": "",
-  "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Đồng Tháp 2",
-  "group": "Địa phương",
-  "logo": "https://images.fptplay53.net/media/channels/icon_channel_mien-tay-thdt2_165666993738.png",
-  "tvgId": "",
-  "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Gia Lai",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/BzEXSIakxh-GTV-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Hải Phòng",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/cFSPDy430i-02-THUMB-HAIPHONG.webp",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Hải Phòng 3",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/3M7pQcaLGE-HAIDUONG-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Hưng Yên",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230610/37c8bb18-f7f8-4a09-bdfe-3af1d2033766.jpg",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Lai Châu",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230609/452199d7-af7a-4b00-b0e7-a0f588b97d83.jpg",
-  "tvgId": "",
-  "url": "https://luuchieu.truyenhinhso.vn/media/live/AF157BFA0E9FE004C61AD76E/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Lâm Đồng 1",
-  "group": "Địa phương",
-  "logo": "https://images.fptplay53.net/media/channels/OTT/2026/01/10/icon_channel_lam-dong_176798018449.jpg",
-  "tvgId": "",
-  "url": "https://live.baolamdong.vn/ltv1/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Lạng Sơn",
-  "group": "Địa phương",
-  "logo": "https://images.fptplay53.net/media/channels/icon_channel_lang-son_165658527667.png",
-  "tvgId": "",
-  "url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Nghệ An",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230609/1279e429-6991-4f0c-be21-9dc75e29ca5c.jpg",
-  "tvgId": "",
-  "url": "https://live.truyenhinhnghean.vn/hls/na1/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Ninh Bình",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230610/23ce5d79-1d75-4207-b4eb-5639ecb76cb4.jpg",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Quảng Ngãi",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/phPCrNicoD-QN1-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Quảng Ngãi 2",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/izb5kvSgfS-QN2-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Quảng Ninh 3",
-  "group": "Địa phương",
-  "logo": "https://images.fptplay53.net/media/channels/icon_channel_quang-ninh-3_165656039913.png",
-  "tvgId": "",
-  "url": "https://live.baoquangninh.vn/qtvlive/tv3live.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Quảng Trị",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/0dlUI4wyHn-QUANGTRI-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Sơn La",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20250225/a5c18be0-3a0d-4e22-8f70-0a9783439668.jpg",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/28595222e707a364251b8724717894baa46/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Tây Ninh 1",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260109/2026010916/36CMQSqvVM-v26.TAYNINH-THUMBNAIL-KENHVTVgo-500x281.webp",
-  "tvgId": "",
-  "url": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Thái Nguyên",
-  "group": "Địa phương",
-  "logo": "https://vtvgo-images.vtvdigital.vn/images/20230622/e03e7dd9-6288-4c48-9dcc-8d2937b947f8.jpg",
-  "tvgId": "",
-  "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing- On Air",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/5/b/1/a/5b1a702c0614a9c13678089a4303bc7e.jpg",
-  "tvgId": "",
-  "url": "https://multi-playlist-zmp3.zmdcdn.me/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Chạm",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover/b/1/7/3/b17338c56d4a1505f2c4c412ee385041.jpg",
-  "tvgId": "FM",
-  "url": "https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Vpop",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-mb-2-tf-multi-playlist-zmp3.zmdcdn.me/JB2zPitWC-s/zhls/playback-realtime/audio/6ddadf76e3330a6d5322/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Pladio",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-cm-8-tf-multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Bolero",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-cm-8-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Rap Việt",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-pt-16-tf-multi-playlist-zmp3.zmdcdn.me/7k45_gFb6I8/zhls/playback-realtime/audio/cef1015d3d18d4468d09/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Kpop",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-mb-2-tf-multi-playlist-zmp3.zmdcdn.me/XoQlAlw4O08/zhls/playback-realtime/audio/6600baac86e96fb736f8/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - USUK",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-cm-4-tf-multi-playlist-zmp3.zmdcdn.me/5k37-bBNjIU/zhls/playback-realtime/audio/f49e38320477ed29b466/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Acoustic",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-mb-2-tf-multi-playlist-zmp3.zmdcdn.me/4TX5Vj5v__E/zhls/playback-realtime/audio/9b7b55d7699280ccd983/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - EDM",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-mb-1-tf-multi-playlist-zmp3.zmdcdn.me/AkjPOEj66pI/zhls/playback-realtime/audio/7386bb2a876f6e31377e/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Cpop",
-  "group": "📻| Radio",
-  "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-cm-2-tf-multi-playlist-zmp3.zmdcdn.me/nDOW7B2Y4NI/zhls/playback-realtime/audio/97b35e1f625a8b04d24b/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Nhạc Không Lời",
-  "group": "📻| Radio",
-  "logo": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/images/4/8/d/7/48d708f2d914f8c04b1700c0b886dbf5.jpg",
-  "tvgId": "FM",
-  "url": "https://vnno-mb-2-tf-multi-playlist-zmp3.zmdcdn.me/KOY-wvc-pKE/zhls/playback-realtime/audio/1f36d59ae9df008159ce/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Indie",
-  "group": "📻| Radio",
-  "logo": "https://static.wikia.nocookie.net/logos/images/7/7c/Zing.vn_logo.png/revision/latest/smart/width/386/height/259?cb=20211230234022&path-prefix=vi",
-  "tvgId": "FM",
-  "url": "https://vnno-mb-1-tf-multi-playlist-zmp3.zmdcdn.me/uma6ByWhxq4/zhls/playback-realtime/audio/eeff2a531616ff48a607/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- },
- {
-  "name": "Zing - Thiếu Nhi",
-  "group": "📻| Radio",
-  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXCZX-hRbuA9kdEPahlV34n8IyNwuvFX44A&s",
-  "tvgId": "FM",
-  "url": "https://vnno-mb-1-tf-multi-playlist-zmp3.zmdcdn.me/vONRm_dVkR0/zhls/playback-realtime/audio/ef512afd16b8ffe6a6a9/audio.m3u8",
-  "userAgent": null,
-  "referer": null
- }
+  {
+    "name": "VTV1",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/vZYlGIW.png",
+    "tvgId": "vtv1hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8",
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "name": "VTV2",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/qWWpYRR.png",
+    "tvgId": "vtv2hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8",
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "name": "VTV3",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/4lJG1fu.png",
+    "tvgId": "vtv3hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8",
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "name": "VTV4",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/WsLLmR2.png",
+    "tvgId": "vtv4hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv4-hd/KenhCoBan.m3u8",
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "name": "VTV5",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/Vnnna1C.png",
+    "tvgId": "vtv5hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8",
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "name": "VTV5 Tây Nam Bộ",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/xiuHjEQ.png",
+    "tvgId": "vtv5tnb",
+    "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8",
+    "referer": "https://fptplay.vn/",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+  },
+  {
+    "name": "VTV5 Tây Nguyên",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/Hlcnqqt.png",
+    "tvgId": "vtv5tn",
+    "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8",
+    "referer": "https://fptplay.vn/",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+  },
+  {
+    "name": "VTV6",
+    "group": "📺| VTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp",
+    "tvgId": "vtv6hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36",
+    "referer": null
+  },
+  {
+    "name": "VTV7",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/ZwoP823.png",
+    "tvgId": "vtv7hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8",
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "name": "VTV8",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/rf9adGJ.png",
+    "tvgId": "vtv8hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8",
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "name": "VTV9",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/QiY55sy.png",
+    "tvgId": "vtv9hd",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8",
+    "referer": null,
+    "userAgent": "Mozilla/5.0 (Linux; Android 12) Chrome/120 Mobile Safari/537.36"
+  },
+  {
+    "name": "QPVN",
+    "group": "📺| VTV",
+    "logo": "https://i.imgur.com/GQO7UNu.png",
+    "tvgId": "QPVN",
+    "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/qpvn-hd/KenhCoBan.m3u8",
+    "userAgent": "",
+    "referer": ""
+  },
+  {
+    "name": "SCTV3",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/7QPYf6D/SCTV3-cc.webp",
+    "tvgId": "sctv3hd",
+    "url": "https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "SCTV5",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/mbDHVPr/SCTV5-cc.webp",
+    "tvgId": "sctv5hd",
+    "url": "https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "SCTV6",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/g4rNcCM/SCTV6-cc.webp",
+    "tvgId": "sctv6hd",
+    "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "SCTV7",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/VJJ953X/SCTV7-cc.webp",
+    "tvgId": "sctv7hd",
+    "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "SCTV8",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/VxHFKfh/SCTV8-cc.webp",
+    "tvgId": "sctv8hd",
+    "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "SCTV10",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/9tKmzD5/SCTV10-cc.webp",
+    "tvgId": "sctv10hd",
+    "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "SCTV12",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/JR8LKdR/SCTV12-cc.webp",
+    "tvgId": "sctv12hd",
+    "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "SCTV20",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/mXBX0sN/SCTV20-cc.webp",
+    "tvgId": "sctv20hd",
+    "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "SCTV21",
+    "group": "🇸| SCTV",
+    "logo": "https://i.ibb.co/q7XSnwX/SCTV21-cc.webp",
+    "tvgId": "ssctv21hd",
+    "url": "https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8",
+    "userAgent": null,
+    "referer": "http://sctvonline.vn/"
+  },
+  {
+    "name": "Red Bull",
+    "group": "",
+    "logo": "https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",
+    "tvgId": "",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "30A Music",
+    "group": "Music",
+    "logo": "https://i.imgur.com/gNWg9tl.png",
+    "tvgId": "30AMusic.us",
+    "url": "https://30a-tv.com/music.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Óčko (540p)",
+    "group": "Music",
+    "logo": "https://i.imgur.com/jKPRYdM.png",
+    "tvgId": "Ocko.cz",
+    "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Play TV (480p)",
+    "group": "Music",
+    "logo": "http://i.imgur.com/100uuWA.png",
+    "tvgId": "PlayTV.gr",
+    "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "MBC 3 (1080p)",
+    "group": "Kids",
+    "logo": "https://i.imgur.com/FVNVC73.png",
+    "tvgId": "MBC3.ae",
+    "url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Camp Spoopy (486p)",
+    "group": "Kids",
+    "logo": "https://i.imgur.com/t3Jsks7.png",
+    "tvgId": "CampSpoopy.us",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "EBS KIDS (360p)",
+    "group": "Kids",
+    "logo": "https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png",
+    "tvgId": "EBSKIDS.kr",
+    "url": "http://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Spacetoon (1080p)",
+    "group": "Kids",
+    "logo": "https://i.imgur.com/RzPOwqI.png",
+    "tvgId": "Spacetoon.sy",
+    "url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Toon Goggles (1080p)",
+    "group": "Kids",
+    "logo": "https://i.imgur.com/oyIMxzM.png",
+    "tvgId": "ToonGoggles.us",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zoo Moo (Australia) (1080p)",
+    "group": "Kids",
+    "logo": "https://i.imgur.com/1wYnA2i.jpg",
+    "tvgId": "ZooMooAustralia.nz",
+    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "THTPCT HD | TH Cần Thơ",
+    "group": "🇻🇳| Địa phương",
+    "logo": "https://cdn.hqth.me/logo/thumbs/126.png",
+    "tvgId": "cantho",
+    "url": "https://live.canthotv.vn/live/tv/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "QTV3 HD | TH Quảng Ninh",
+    "group": "🇻🇳| Địa phương",
+    "logo": "https://cdn.hqth.me/logo/thumbs/169.png",
+    "tvgId": "quangninh3",
+    "url": "http://103.90.220.236/qtvlive/tv3live.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Xone FM",
+    "group": "📻| Radio",
+    "logo": "https://cdn.hqth.me/logo/thumbs/251.png",
+    "tvgId": "",
+    "url": "https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing MP3 - On Air",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg",
+    "tvgId": "",
+    "url": "https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing MP3 - Chạm",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg",
+    "tvgId": "",
+    "url": "https://multi-playlist-zmp3.zadn.vn/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing MP3 - Vpop",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zadn.vn/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg",
+    "tvgId": "",
+    "url": "https://multi-playlist-zmp3.zadn.vn/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing MP3 - Acoustic",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zadn.vn/avatars/0/9/9/3/0993b3110c60ba6518fceeba9913d20d.jpg",
+    "tvgId": "",
+    "url": "https://multi-playlist-zmp3.zadn.vn/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "An Giang 1",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230615/52a9c209-cb9e-455a-8e1d-b25a9ac34bb2.jpg",
+    "tvgId": "",
+    "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",
+    "referer": null
+  },
+  {
+    "name": "An Giang 2",
+    "group": "Địa phương",
+    "logo": "https://images.fptplay53.net/media/channels/OTT/2025/07/29/icon_channel_an-giang_175372455025.jpg",
+    "tvgId": "",
+    "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",
+    "referer": null
+  },
+  {
+    "name": "An Giang 3",
+    "group": "Địa phương",
+    "logo": "https://images.fptplay53.net/media/channels/OTT/2025/11/15/icon_channel_an-giang-3_176314756942.jpg",
+    "tvgId": "",
+    "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",
+    "referer": null
+  },
+  {
+    "name": "Bắc Ninh",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250908/2025090816/RDQv8vVSvN-BTV-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Cần Thơ 1",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260205/2026020509/Gt7QRQqd2b-CANTHO1-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://live.canthotv.vn/live/tv/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Cần Thơ 2",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260204/2026020411/sNbsLQqbxQ-CANTHO2-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Cà Mau",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230610/50f75842-6415-4eb4-be1d-4e9f14bb22b0.jpg",
+    "tvgId": "",
+    "url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Cao Bằng",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/NnWwvFn0Kw-02-THUMB-CAOBANG.webp",
+    "tvgId": "",
+    "url": "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Đắk Lắk",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230609/960c627e-dd6f-45d9-a1dd-37f6190c997b.jpg",
+    "tvgId": "",
+    "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Điện Biên",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230610/8600437a-6698-474b-b11f-4397ce3a4965.jpg",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Đà Nẵng 1",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/RTF9mH0WuG-DNRT1-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://liveh12.vtvprime.vn/hls/DANANGTV/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Đà Nẵng 2",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/PmFxeTP8wZ-DNRT2-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://liveh34.vtvprime.vn/hls/DANANG2/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Đồng Nai 1",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250805/2025080516/CNUBvVy56R-DONGNAI1-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://stream.thingnet.vn/live/smil:DNTV1.smil/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Đồng Tháp 1",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230609/0afb380f-c9fd-4e2f-b4a9-e47b73c9e76b.jpg",
+    "tvgId": "",
+    "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Đồng Tháp 2",
+    "group": "Địa phương",
+    "logo": "https://images.fptplay53.net/media/channels/icon_channel_mien-tay-thdt2_165666993738.png",
+    "tvgId": "",
+    "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Gia Lai",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/BzEXSIakxh-GTV-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Hải Phòng",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/cFSPDy430i-02-THUMB-HAIPHONG.webp",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Hải Phòng 3",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/3M7pQcaLGE-HAIDUONG-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Hưng Yên",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230610/37c8bb18-f7f8-4a09-bdfe-3af1d2033766.jpg",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Lai Châu",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230609/452199d7-af7a-4b00-b0e7-a0f588b97d83.jpg",
+    "tvgId": "",
+    "url": "https://luuchieu.truyenhinhso.vn/media/live/AF157BFA0E9FE004C61AD76E/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Lâm Đồng 1",
+    "group": "Địa phương",
+    "logo": "https://images.fptplay53.net/media/channels/OTT/2026/01/10/icon_channel_lam-dong_176798018449.jpg",
+    "tvgId": "",
+    "url": "https://live.baolamdong.vn/ltv1/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Lạng Sơn",
+    "group": "Địa phương",
+    "logo": "https://images.fptplay53.net/media/channels/icon_channel_lang-son_165658527667.png",
+    "tvgId": "",
+    "url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Nghệ An",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230609/1279e429-6991-4f0c-be21-9dc75e29ca5c.jpg",
+    "tvgId": "",
+    "url": "https://live.truyenhinhnghean.vn/hls/na1/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Ninh Bình",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230610/23ce5d79-1d75-4207-b4eb-5639ecb76cb4.jpg",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Quảng Ngãi",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/phPCrNicoD-QN1-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Quảng Ngãi 2",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/izb5kvSgfS-QN2-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Quảng Ninh 3",
+    "group": "Địa phương",
+    "logo": "https://images.fptplay53.net/media/channels/icon_channel_quang-ninh-3_165656039913.png",
+    "tvgId": "",
+    "url": "https://live.baoquangninh.vn/qtvlive/tv3live.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Quảng Trị",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/0dlUI4wyHn-QUANGTRI-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Sơn La",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20250225/a5c18be0-3a0d-4e22-8f70-0a9783439668.jpg",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/28595222e707a364251b8724717894baa46/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Tây Ninh 1",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260109/2026010916/36CMQSqvVM-v26.TAYNINH-THUMBNAIL-KENHVTVgo-500x281.webp",
+    "tvgId": "",
+    "url": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Thái Nguyên",
+    "group": "Địa phương",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230622/e03e7dd9-6288-4c48-9dcc-8d2937b947f8.jpg",
+    "tvgId": "",
+    "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing- On Air",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/5/b/1/a/5b1a702c0614a9c13678089a4303bc7e.jpg",
+    "tvgId": "",
+    "url": "https://multi-playlist-zmp3.zmdcdn.me/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Chạm",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover/b/1/7/3/b17338c56d4a1505f2c4c412ee385041.jpg",
+    "tvgId": "FM",
+    "url": "https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Vpop",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-mb-2-tf-multi-playlist-zmp3.zmdcdn.me/JB2zPitWC-s/zhls/playback-realtime/audio/6ddadf76e3330a6d5322/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Pladio",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-cm-8-tf-multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Bolero",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-cm-8-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Rap Việt",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-pt-16-tf-multi-playlist-zmp3.zmdcdn.me/7k45_gFb6I8/zhls/playback-realtime/audio/cef1015d3d18d4468d09/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Kpop",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-mb-2-tf-multi-playlist-zmp3.zmdcdn.me/XoQlAlw4O08/zhls/playback-realtime/audio/6600baac86e96fb736f8/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - USUK",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-cm-4-tf-multi-playlist-zmp3.zmdcdn.me/5k37-bBNjIU/zhls/playback-realtime/audio/f49e38320477ed29b466/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Acoustic",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-mb-2-tf-multi-playlist-zmp3.zmdcdn.me/4TX5Vj5v__E/zhls/playback-realtime/audio/9b7b55d7699280ccd983/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - EDM",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-mb-1-tf-multi-playlist-zmp3.zmdcdn.me/AkjPOEj66pI/zhls/playback-realtime/audio/7386bb2a876f6e31377e/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Cpop",
+    "group": "📻| Radio",
+    "logo": "https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-cm-2-tf-multi-playlist-zmp3.zmdcdn.me/nDOW7B2Y4NI/zhls/playback-realtime/audio/97b35e1f625a8b04d24b/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Nhạc Không Lời",
+    "group": "📻| Radio",
+    "logo": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/images/4/8/d/7/48d708f2d914f8c04b1700c0b886dbf5.jpg",
+    "tvgId": "FM",
+    "url": "https://vnno-mb-2-tf-multi-playlist-zmp3.zmdcdn.me/KOY-wvc-pKE/zhls/playback-realtime/audio/1f36d59ae9df008159ce/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Indie",
+    "group": "📻| Radio",
+    "logo": "https://static.wikia.nocookie.net/logos/images/7/7c/Zing.vn_logo.png/revision/latest/smart/width/386/height/259?cb=20211230234022&path-prefix=vi",
+    "tvgId": "FM",
+    "url": "https://vnno-mb-1-tf-multi-playlist-zmp3.zmdcdn.me/uma6ByWhxq4/zhls/playback-realtime/audio/eeff2a531616ff48a607/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  },
+  {
+    "name": "Zing - Thiếu Nhi",
+    "group": "📻| Radio",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXCZX-hRbuA9kdEPahlV34n8IyNwuvFX44A&s",
+    "tvgId": "FM",
+    "url": "https://vnno-mb-1-tf-multi-playlist-zmp3.zmdcdn.me/vONRm_dVkR0/zhls/playback-realtime/audio/ef512afd16b8ffe6a6a9/audio.m3u8",
+    "userAgent": null,
+    "referer": null
+  }
 ]
